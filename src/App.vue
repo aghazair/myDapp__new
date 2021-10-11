@@ -284,7 +284,7 @@ async function getAccountDetail(myAddress)
 
       } 
       
-      console.log(_balance + " : " + amount);
+      getAccountDetail(account);
  
     }
   
